@@ -1,0 +1,23 @@
+{
+  "name": "text-to-conquer-rpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OathOfIsaac/text-to-conquer-rpg.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OathOfIsaac/text-to-conquer-rpg/issues"
+  },
+  "homepage": "https://github.com/OathOfIsaac/text-to-conquer-rpg#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
